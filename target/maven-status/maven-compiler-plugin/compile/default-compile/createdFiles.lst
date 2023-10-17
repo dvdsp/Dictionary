@@ -1,0 +1,7 @@
+DataAccess\DictionaryDao.class
+Main.class
+Common\Validation.class
+Repository\DictionaryRepository.class
+View\Menu.class
+Repository\InterfaceDictionaryRepository.class
+Controller\Manager.class
